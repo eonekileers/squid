@@ -1,6 +1,6 @@
 #!/bin/bash
 # author: Fway  <admin@fway.me>
-# Copyright 2012 (c) esteh.info
+# Copyright 2016
 # 
 # Revisi 1:
 # Penambahan config agar proxy menjadi super elite
